@@ -1,0 +1,4 @@
+Total number of clockcycles = 133499700
+accesses = 32000000; hits = 29980000; misses = 2020000; reads = 24000000; writes = 8000000;
+read hits = 21980000; write hits = 8000000; read misses = 2020000; write misses = 0; write backs = 9994
+Miss ratio = 0.0631, Average cycles per instruction = 4.1719
